@@ -18,4 +18,4 @@ Summary: This is a test file in a new test repo.
 
 # I am very awesome. My name is Ifaz Alam.
 
-<!-- Added a new Git branch -->
+Added a new Git branch
